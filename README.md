@@ -8,11 +8,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#85](https://github.com/GenPi64/Build.Dist/issues/85) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
-2. 🗣 Commented on [#8074](https://github.com/traefik/traefik/issues/8074) in [traefik/traefik](https://github.com/traefik/traefik)
-3. ❗️ Opened issue [#8074](https://github.com/traefik/traefik/issues/8074) in [traefik/traefik](https://github.com/traefik/traefik)
-4. ❗️ Closed issue [#60](https://github.com/GenPi64/Build.Dist/issues/60) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
-5. ❗️ Closed issue [#89](https://github.com/GenPi64/Build.Dist/issues/89) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
+1. 🎉 Merged PR [#385](https://github.com/samip5/maniwani/pull/385) in [samip5/maniwani](https://github.com/samip5/maniwani)
+2. 🎉 Merged PR [#390](https://github.com/samip5/maniwani/pull/390) in [samip5/maniwani](https://github.com/samip5/maniwani)
+3. 🎉 Merged PR [#337](https://github.com/samip5/maniwani/pull/337) in [samip5/maniwani](https://github.com/samip5/maniwani)
+4. 🗣 Commented on [#302](https://github.com/docker/build-push-action/issues/302) in [docker/build-push-action](https://github.com/docker/build-push-action)
+5. ❗️ Closed issue [#85](https://github.com/GenPi64/Build.Dist/issues/85) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
 <!--END_SECTION:activity-->
 ---
 
