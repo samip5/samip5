@@ -8,11 +8,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#909](https://github.com/netbootxyz/netboot.xyz/issues/909) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-2. 🎉 Merged PR [#49](https://github.com/samip5/samip.dev-django/pull/49) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
-3. 🎉 Merged PR [#51](https://github.com/samip5/samip.dev-django/pull/51) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
-4. ❗️ Opened issue [#89](https://github.com/WireGuard/wireguard-vyatta-ubnt/issues/89) in [WireGuard/wireguard-vyatta-ubnt](https://github.com/WireGuard/wireguard-vyatta-ubnt)
-5. ❗️ Opened issue [#144](https://github.com/checktheroads/hyperglass/issues/144) in [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass)
+1. 🗣 Commented on [#3](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/3) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+2. ❌ Closed PR [#13](https://github.com/GenPi64/gentoo-on-rpi-64bit/pull/13) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+3. 🗣 Commented on [#13](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/13) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+4. 🗣 Commented on [#16](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/16) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+5. 🗣 Commented on [#15](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/15) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
 <!--END_SECTION:activity-->
 ---
 
