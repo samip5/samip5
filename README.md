@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=samip5&style=flat-square" alt="samip5" />
-
 ### Who am I?
 I'm a developer, student and IT-admin. I also administer AS213021.
 
