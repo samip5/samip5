@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/samip5/samip.dev-django/pull/53) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
-2. 🗣 Commented on [#53](https://github.com/samip5/samip.dev-django/issues/53) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
-3. 🗣 Commented on [#3](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/3) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
-4. ❗️ Closed issue [#15](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/15) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
-5. 🗣 Commented on [#15](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/15) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+1. 🗣 Commented on [#3](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/3) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+2. ❗️ Opened issue [#17](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/17) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+3. ❗️ Opened issue [#110](https://github.com/GenPi64/Build.Dist/issues/110) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
+4. ❗️ Opened issue [#109](https://github.com/GenPi64/Build.Dist/issues/109) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
+5. ❗️ Opened issue [#108](https://github.com/GenPi64/Build.Dist/issues/108) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
 <!--END_SECTION:activity-->
 ---
 
