@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/samip5/k8s-cluster/pull/95) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. 🎉 Merged PR [#94](https://github.com/samip5/k8s-cluster/pull/94) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-3. ❗️ Opened issue [#1347](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1347) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
-4. 🎉 Merged PR [#93](https://github.com/samip5/k8s-cluster/pull/93) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. ❗️ Opened issue [#277](https://github.com/mcandre/tonixxx/issues/277) in [mcandre/tonixxx](https://github.com/mcandre/tonixxx)
+1. 🎉 Merged PR [#96](https://github.com/samip5/k8s-cluster/pull/96) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+2. 🎉 Merged PR [#60](https://github.com/GenPi64/genpi64-overlay/pull/60) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+3. 🗣 Commented on [#7305](https://github.com/bitnami/charts/issues/7305) in [bitnami/charts](https://github.com/bitnami/charts)
+4. 💪 Opened PR [#60](https://github.com/GenPi64/genpi64-overlay/pull/60) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+5. 🎉 Merged PR [#95](https://github.com/samip5/k8s-cluster/pull/95) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
 <!--END_SECTION:activity-->
 ---
 
