@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#92](https://github.com/vaeth/eix/issues/92) in [vaeth/eix](https://github.com/vaeth/eix)
-2. 🗣 Commented on [#92](https://github.com/vaeth/eix/issues/92) in [vaeth/eix](https://github.com/vaeth/eix)
-3. ❗️ Opened issue [#92](https://github.com/vaeth/eix/issues/92) in [vaeth/eix](https://github.com/vaeth/eix)
-4. 🗣 Commented on [#1](https://github.com/GenPi64/PiInitramfs/issues/1) in [GenPi64/PiInitramfs](https://github.com/GenPi64/PiInitramfs)
-5. ❗️ Opened issue [#1](https://github.com/GenPi64/PiInitramfs/issues/1) in [GenPi64/PiInitramfs](https://github.com/GenPi64/PiInitramfs)
+1. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+2. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+3. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+4. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+5. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 <!--END_SECTION:activity-->
 ---
 
