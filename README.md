@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/samip5/k8s-cluster/pull/172) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. 🎉 Merged PR [#175](https://github.com/samip5/k8s-cluster/pull/175) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-3. 🎉 Merged PR [#176](https://github.com/samip5/k8s-cluster/pull/176) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-4. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
-5. 🗣 Commented on [#1595](https://github.com/goauthentik/authentik/issues/1595) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+1. ❗️ Opened issue [#184](https://github.com/pftf/RPi4/issues/184) in [pftf/RPi4](https://github.com/pftf/RPi4)
+2. 🗣 Commented on [#114](https://github.com/GenPi64/Build.Dist/issues/114) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
+3. ❌ Closed PR [#177](https://github.com/samip5/k8s-cluster/pull/177) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. 🎉 Merged PR [#178](https://github.com/samip5/k8s-cluster/pull/178) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+5. 💪 Opened PR [#3](https://github.com/GenPi64/PiInitramfs/pull/3) in [GenPi64/PiInitramfs](https://github.com/GenPi64/PiInitramfs)
 <!--END_SECTION:activity-->
 ---
 
