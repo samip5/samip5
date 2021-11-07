@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/GenPi64/Build.Dist/issues/122) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
-2. 🗣 Commented on [#122](https://github.com/GenPi64/Build.Dist/issues/122) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
+1. ❌ Closed PR [#1](https://github.com/samipsolutions/external-dns/pull/1) in [samipsolutions/external-dns](https://github.com/samipsolutions/external-dns)
+2. 💪 Opened PR [#1](https://github.com/samipsolutions/external-dns/pull/1) in [samipsolutions/external-dns](https://github.com/samipsolutions/external-dns)
 3. 🗣 Commented on [#122](https://github.com/GenPi64/Build.Dist/issues/122) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
 4. 🗣 Commented on [#122](https://github.com/GenPi64/Build.Dist/issues/122) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
-5. ❗️ Opened issue [#122](https://github.com/GenPi64/Build.Dist/issues/122) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
+5. 🗣 Commented on [#122](https://github.com/GenPi64/Build.Dist/issues/122) in [GenPi64/Build.Dist](https://github.com/GenPi64/Build.Dist)
 <!--END_SECTION:activity-->
 ---
 
