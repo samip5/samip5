@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#265](https://github.com/samip5/k8s-cluster/pull/265) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. 🎉 Merged PR [#266](https://github.com/samip5/k8s-cluster/pull/266) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-3. 🎉 Merged PR [#263](https://github.com/samip5/k8s-cluster/pull/263) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-4. 🎉 Merged PR [#264](https://github.com/samip5/k8s-cluster/pull/264) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. 🎉 Merged PR [#261](https://github.com/samip5/k8s-cluster/pull/261) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+1. ❗️ Opened issue [#128](https://github.com/notifirehq/notifire/issues/128) in [notifirehq/notifire](https://github.com/notifirehq/notifire)
+2. ❗️ Opened issue [#127](https://github.com/notifirehq/notifire/issues/127) in [notifirehq/notifire](https://github.com/notifirehq/notifire)
+3. 🎉 Merged PR [#267](https://github.com/samip5/k8s-cluster/pull/267) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. ❌ Closed PR [#265](https://github.com/samip5/k8s-cluster/pull/265) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+5. 🎉 Merged PR [#266](https://github.com/samip5/k8s-cluster/pull/266) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
 <!--END_SECTION:activity-->
 ---
 
