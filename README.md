@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1868](https://github.com/goauthentik/authentik/issues/1868) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
-2. ❗️ Opened issue [#1867](https://github.com/goauthentik/authentik/issues/1867) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
-3. ❗️ Opened issue [#1866](https://github.com/goauthentik/authentik/issues/1866) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
-4. ❌ Closed PR [#603](https://github.com/phusion/baseimage-docker/pull/603) in [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)
-5. 🎉 Merged PR [#64](https://github.com/GenPi64/genpi64-overlay/pull/64) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+1. 🎉 Merged PR [#270](https://github.com/samip5/k8s-cluster/pull/270) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+2. 🎉 Merged PR [#271](https://github.com/samip5/k8s-cluster/pull/271) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+3. 🎉 Merged PR [#272](https://github.com/samip5/k8s-cluster/pull/272) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. ❗️ Opened issue [#1868](https://github.com/goauthentik/authentik/issues/1868) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+5. ❗️ Opened issue [#1867](https://github.com/goauthentik/authentik/issues/1867) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 <!--END_SECTION:activity-->
 ---
 
