@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/matrix-ax/website-www.pikaviestin.fi/pull/4) in [matrix-ax/website-www.pikaviestin.fi](https://github.com/matrix-ax/website-www.pikaviestin.fi)
-2. 💪 Opened PR [#4](https://github.com/matrix-ax/website-www.pikaviestin.fi/pull/4) in [matrix-ax/website-www.pikaviestin.fi](https://github.com/matrix-ax/website-www.pikaviestin.fi)
-3. 🎉 Merged PR [#277](https://github.com/samip5/k8s-cluster/pull/277) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-4. 🎉 Merged PR [#276](https://github.com/samip5/k8s-cluster/pull/276) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. 🗣 Commented on [#2309](https://github.com/kubernetes-sigs/external-dns/issues/2309) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+1. ❗️ Closed issue [#7](https://github.com/matrix-ax/documentation/issues/7) in [matrix-ax/documentation](https://github.com/matrix-ax/documentation)
+2. ❗️ Closed issue [#1](https://github.com/matrix-ax/documentation/issues/1) in [matrix-ax/documentation](https://github.com/matrix-ax/documentation)
+3. 💪 Opened PR [#5](https://github.com/matrix-ax/website-www.pikaviestin.fi/pull/5) in [matrix-ax/website-www.pikaviestin.fi](https://github.com/matrix-ax/website-www.pikaviestin.fi)
+4. 🎉 Merged PR [#4](https://github.com/matrix-ax/website-www.pikaviestin.fi/pull/4) in [matrix-ax/website-www.pikaviestin.fi](https://github.com/matrix-ax/website-www.pikaviestin.fi)
+5. 💪 Opened PR [#4](https://github.com/matrix-ax/website-www.pikaviestin.fi/pull/4) in [matrix-ax/website-www.pikaviestin.fi](https://github.com/matrix-ax/website-www.pikaviestin.fi)
 <!--END_SECTION:activity-->
 ---
 
