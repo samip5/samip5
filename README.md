@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#296](https://github.com/samip5/k8s-cluster/pull/296) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. 🗣 Commented on [#10](https://github.com/matrix-ax/documentation/issues/10) in [matrix-ax/documentation](https://github.com/matrix-ax/documentation)
-3. 🎉 Merged PR [#13](https://github.com/matrix-ax/documentation/pull/13) in [matrix-ax/documentation](https://github.com/matrix-ax/documentation)
-4. ❗️ Opened issue [#44](https://github.com/devWaves/SwitchBot-MQTT-BLE-ESP32/issues/44) in [devWaves/SwitchBot-MQTT-BLE-ESP32](https://github.com/devWaves/SwitchBot-MQTT-BLE-ESP32)
-5. 🗣 Commented on [#49](https://github.com/tube0013/tube_gateways/issues/49) in [tube0013/tube_gateways](https://github.com/tube0013/tube_gateways)
+1. 🗣 Commented on [#5](https://github.com/matrix-ax/website-www.pikaviestin.fi/issues/5) in [matrix-ax/website-www.pikaviestin.fi](https://github.com/matrix-ax/website-www.pikaviestin.fi)
+2. 🎉 Merged PR [#4](https://github.com/matrix-ax/ansible/pull/4) in [matrix-ax/ansible](https://github.com/matrix-ax/ansible)
+3. 🎉 Merged PR [#301](https://github.com/samip5/k8s-cluster/pull/301) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. 🎉 Merged PR [#296](https://github.com/samip5/k8s-cluster/pull/296) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+5. 🗣 Commented on [#10](https://github.com/matrix-ax/documentation/issues/10) in [matrix-ax/documentation](https://github.com/matrix-ax/documentation)
 <!--END_SECTION:activity-->
 ---
 
