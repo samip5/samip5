@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/samip5/k8s-cluster/pull/325) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. 🎉 Merged PR [#323](https://github.com/samip5/k8s-cluster/pull/323) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-3. 🎉 Merged PR [#324](https://github.com/samip5/k8s-cluster/pull/324) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-4. 🎉 Merged PR [#322](https://github.com/samip5/k8s-cluster/pull/322) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. 🗣 Commented on [#2](https://github.com/cloudydeno/kubernetes-dns-sync/issues/2) in [cloudydeno/kubernetes-dns-sync](https://github.com/cloudydeno/kubernetes-dns-sync)
+1. 🎉 Merged PR [#334](https://github.com/samip5/k8s-cluster/pull/334) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+2. 🎉 Merged PR [#330](https://github.com/samip5/k8s-cluster/pull/330) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+3. 🎉 Merged PR [#328](https://github.com/samip5/k8s-cluster/pull/328) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. 🎉 Merged PR [#326](https://github.com/samip5/k8s-cluster/pull/326) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+5. 🎉 Merged PR [#331](https://github.com/samip5/k8s-cluster/pull/331) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
 <!--END_SECTION:activity-->
 ---
 
