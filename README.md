@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#352](https://github.com/samip5/k8s-cluster/pull/352) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. ❌ Closed PR [#350](https://github.com/samip5/k8s-cluster/pull/350) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-3. 🎉 Merged PR [#351](https://github.com/samip5/k8s-cluster/pull/351) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-4. ❗️ Opened issue [#120](https://github.com/authelia/chartrepo/issues/120) in [authelia/chartrepo](https://github.com/authelia/chartrepo)
-5. 🎉 Merged PR [#67](https://github.com/samip5/samip.dev-django/pull/67) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
+1. 🗣 Commented on [#2](https://github.com/danopia/helm-land/issues/2) in [danopia/helm-land](https://github.com/danopia/helm-land)
+2. 🎉 Merged PR [#349](https://github.com/samip5/k8s-cluster/pull/349) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+3. 🎉 Merged PR [#353](https://github.com/samip5/k8s-cluster/pull/353) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. 🎉 Merged PR [#352](https://github.com/samip5/k8s-cluster/pull/352) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+5. ❌ Closed PR [#350](https://github.com/samip5/k8s-cluster/pull/350) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
 <!--END_SECTION:activity-->
 ---
 
