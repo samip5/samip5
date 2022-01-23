@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1385](https://github.com/k8s-at-home/charts/pull/1385) in [k8s-at-home/charts](https://github.com/k8s-at-home/charts)
-2. ❗️ Opened issue [#1439](https://github.com/minio/console/issues/1439) in [minio/console](https://github.com/minio/console)
-3. 🗣 Commented on [#1320](https://github.com/k8s-at-home/charts/issues/1320) in [k8s-at-home/charts](https://github.com/k8s-at-home/charts)
-4. 🎉 Merged PR [#14](https://github.com/matrix-ax/documentation/pull/14) in [matrix-ax/documentation](https://github.com/matrix-ax/documentation)
-5. 🎉 Merged PR [#357](https://github.com/samip5/k8s-cluster/pull/357) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+1. 🗣 Commented on [#24](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/24) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+2. 🗣 Commented on [#22](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/22) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+3. 💪 Opened PR [#1385](https://github.com/k8s-at-home/charts/pull/1385) in [k8s-at-home/charts](https://github.com/k8s-at-home/charts)
+4. ❗️ Opened issue [#1439](https://github.com/minio/console/issues/1439) in [minio/console](https://github.com/minio/console)
+5. 🗣 Commented on [#1320](https://github.com/k8s-at-home/charts/issues/1320) in [k8s-at-home/charts](https://github.com/k8s-at-home/charts)
 <!--END_SECTION:activity-->
 ---
 
