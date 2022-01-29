@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/bugfest/tor-controller/issues/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
+1. 🗣 Commented on [#3](https://github.com/bugfest/tor-controller/issues/3) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
 2. 🗣 Commented on [#5](https://github.com/bugfest/tor-controller/issues/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
-3. ❌ Closed PR [#5](https://github.com/bugfest/tor-controller/pull/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
-4. 💪 Opened PR [#5](https://github.com/bugfest/tor-controller/pull/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
-5. 🗣 Commented on [#1372](https://github.com/k8s-at-home/charts/issues/1372) in [k8s-at-home/charts](https://github.com/k8s-at-home/charts)
+3. 🗣 Commented on [#5](https://github.com/bugfest/tor-controller/issues/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
+4. ❌ Closed PR [#5](https://github.com/bugfest/tor-controller/pull/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
+5. 💪 Opened PR [#5](https://github.com/bugfest/tor-controller/pull/5) in [bugfest/tor-controller](https://github.com/bugfest/tor-controller)
 <!--END_SECTION:activity-->
 ---
 
