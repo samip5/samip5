@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ZCube/bitnami-compat/issues/2) in [ZCube/bitnami-compat](https://github.com/ZCube/bitnami-compat)
-2. 🗣 Commented on [#73](https://github.com/bitnami/bitnami-docker-memcached/issues/73) in [bitnami/bitnami-docker-memcached](https://github.com/bitnami/bitnami-docker-memcached)
-3. 🗣 Commented on [#1405](https://github.com/k8s-at-home/charts/issues/1405) in [k8s-at-home/charts](https://github.com/k8s-at-home/charts)
-4. ❗️ Opened issue [#5963](https://github.com/monicahq/monica/issues/5963) in [monicahq/monica](https://github.com/monicahq/monica)
-5. ❗️ Closed issue [#3815](https://github.com/k3s-io/k3s/issues/3815) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
+1. 🎉 Merged PR [#102](https://github.com/GenPi64/genpi64-overlay/pull/102) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+2. 🎉 Merged PR [#101](https://github.com/GenPi64/genpi64-overlay/pull/101) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+3. 🎉 Merged PR [#98](https://github.com/GenPi64/genpi64-overlay/pull/98) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+4. 🎉 Merged PR [#92](https://github.com/GenPi64/genpi64-overlay/pull/92) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+5. 🎉 Merged PR [#105](https://github.com/GenPi64/genpi64-overlay/pull/105) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
 <!--END_SECTION:activity-->
 ---
 
