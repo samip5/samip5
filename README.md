@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/GenPi64/genpi64-overlay/pull/110) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
-2. 🗣 Commented on [#83](https://github.com/Yooooomi/your_spotify/issues/83) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-3. 🗣 Commented on [#76](https://github.com/Yooooomi/your_spotify/issues/76) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-4. 💪 Opened PR [#83](https://github.com/Yooooomi/your_spotify/pull/83) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
-5. 🗣 Commented on [#82](https://github.com/Yooooomi/your_spotify/issues/82) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+1. 🗣 Commented on [#82](https://github.com/Yooooomi/your_spotify/issues/82) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+2. 🗣 Commented on [#82](https://github.com/Yooooomi/your_spotify/issues/82) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+3. 🎉 Merged PR [#110](https://github.com/GenPi64/genpi64-overlay/pull/110) in [GenPi64/genpi64-overlay](https://github.com/GenPi64/genpi64-overlay)
+4. 🗣 Commented on [#83](https://github.com/Yooooomi/your_spotify/issues/83) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
+5. 🗣 Commented on [#76](https://github.com/Yooooomi/your_spotify/issues/76) in [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
 <!--END_SECTION:activity-->
 ---
 
