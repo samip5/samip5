@@ -9,8 +9,8 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 1. 🗣 Commented on [#1710](https://github.com/raspberrypi/firmware/issues/1710) in [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
 2. 🗣 Commented on [#1710](https://github.com/raspberrypi/firmware/issues/1710) in [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
 3. 🗣 Commented on [#1710](https://github.com/raspberrypi/firmware/issues/1710) in [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
-4. ❗️ Opened issue [#1710](https://github.com/raspberrypi/firmware/issues/1710) in [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
-5. ❗️ Opened issue [#138](https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/issues/138) in [TheRemote/Ubuntu-Server-raspi4-unofficial](https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial)
+4. 🗣 Commented on [#1710](https://github.com/raspberrypi/firmware/issues/1710) in [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
+5. 🗣 Commented on [#1710](https://github.com/raspberrypi/firmware/issues/1710) in [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
 <!--END_SECTION:activity-->
 ---
 
