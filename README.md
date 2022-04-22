@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#522](https://github.com/samip5/k8s-cluster/pull/522) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. ❌ Closed PR [#520](https://github.com/samip5/k8s-cluster/pull/520) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-3. 🎉 Merged PR [#512](https://github.com/samip5/k8s-cluster/pull/512) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-4. 🎉 Merged PR [#515](https://github.com/samip5/k8s-cluster/pull/515) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. 🎉 Merged PR [#519](https://github.com/samip5/k8s-cluster/pull/519) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+1. 🎉 Merged PR [#524](https://github.com/samip5/k8s-cluster/pull/524) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+2. 🎉 Merged PR [#525](https://github.com/samip5/k8s-cluster/pull/525) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+3. ❌ Closed PR [#523](https://github.com/samip5/k8s-cluster/pull/523) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. ❌ Closed PR [#526](https://github.com/samip5/k8s-cluster/pull/526) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+5. 🎉 Merged PR [#522](https://github.com/samip5/k8s-cluster/pull/522) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
 <!--END_SECTION:activity-->
 ---
 
