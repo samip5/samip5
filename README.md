@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1185](https://github.com/PowerDNS-Admin/PowerDNS-Admin/issues/1185) in [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin)
-2. 🎉 Merged PR [#19](https://github.com/pikaviestin/documentation/pull/19) in [pikaviestin/documentation](https://github.com/pikaviestin/documentation)
-3. 🎉 Merged PR [#81](https://github.com/samip5/samip.dev-django/pull/81) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
-4. 🎉 Merged PR [#538](https://github.com/samip5/k8s-cluster/pull/538) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. 🎉 Merged PR [#534](https://github.com/samip5/k8s-cluster/pull/534) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+1. 🎉 Merged PR [#30](https://github.com/GenPi64/gentoo-on-rpi-64bit/pull/30) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+2. 🗣 Commented on [#31](https://github.com/GenPi64/gentoo-on-rpi-64bit/issues/31) in [GenPi64/gentoo-on-rpi-64bit](https://github.com/GenPi64/gentoo-on-rpi-64bit)
+3. ❗️ Opened issue [#1185](https://github.com/PowerDNS-Admin/PowerDNS-Admin/issues/1185) in [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin)
+4. 🎉 Merged PR [#19](https://github.com/pikaviestin/documentation/pull/19) in [pikaviestin/documentation](https://github.com/pikaviestin/documentation)
+5. 🎉 Merged PR [#81](https://github.com/samip5/samip.dev-django/pull/81) in [samip5/samip.dev-django](https://github.com/samip5/samip.dev-django)
 <!--END_SECTION:activity-->
 ---
 
