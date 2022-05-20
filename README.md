@@ -6,11 +6,11 @@ I'm a developer, student and IT-admin. I also administer AS213021.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#596](https://github.com/samip5/k8s-cluster/pull/596) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-2. 🎉 Merged PR [#611](https://github.com/phusion/baseimage-docker/pull/611) in [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)
-3. 💪 Opened PR [#611](https://github.com/phusion/baseimage-docker/pull/611) in [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)
-4. 🎉 Merged PR [#592](https://github.com/samip5/k8s-cluster/pull/592) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
-5. 🗣 Commented on [#503](https://github.com/infracloudio/botkube/issues/503) in [infracloudio/botkube](https://github.com/infracloudio/botkube)
+1. 🎉 Merged PR [#597](https://github.com/samip5/k8s-cluster/pull/597) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+2. 🗣 Commented on [#612](https://github.com/phusion/baseimage-docker/issues/612) in [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)
+3. 🎉 Merged PR [#596](https://github.com/samip5/k8s-cluster/pull/596) in [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster)
+4. 🎉 Merged PR [#611](https://github.com/phusion/baseimage-docker/pull/611) in [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)
+5. 💪 Opened PR [#611](https://github.com/phusion/baseimage-docker/pull/611) in [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker)
 <!--END_SECTION:activity-->
 ---
 
