@@ -10,6 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: samip5/metrics@master
+      - uses: lowlighter/metrics@3.33
         with:
           token: ${{ secrets.METRICS_TOKEN }}
